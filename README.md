@@ -1,7 +1,7 @@
 # [ICSE 2027] Hone: Adaptive System-Level Orchestration for Federated Intelligent Software Systems
 This is the ICSE 2027 *Hone: Adaptive System-Level Orchestration for Federated Intelligent Software Systems* GitHub repository.
 
-## System Code and Training Records
+## System Code
 Currently, only part of the code and the complete server training records are publicly available to prove the authenticity and reproducibility of the project. The complete code, including the core parts, will be made public after the paper is published.
 
 ## Table of Contents
