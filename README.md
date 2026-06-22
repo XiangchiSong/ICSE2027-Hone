@@ -24,4 +24,4 @@ Please refer to __*resultsAndServerRunningLogs.zip*__ to get all the server runn
 For the mathematical foundations and theoretical analysis of this paper, please refer to __*supplementaryDoc.pdf - Section D*__ for details. Specifically, it is the theoretical analysis and formula derivation of the theoretical guarantees of the Hone methodology.
 
 ### Figure
-Please refer to the __*Figure*__ folder to obtain all the figures used in this paper.
+Please refer to the __*figure*__ folder to obtain all the figures used in this paper.
