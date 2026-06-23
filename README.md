@@ -3,11 +3,11 @@ This is the ICSE 2027 *Hone: Adaptive System-Level Orchestration for Federated I
 
 ## System Code
 Currently, to verify the project's authenticity and reproducibility, we release a portion of the code here; please refer to the __*code/*__ folder. To protect copyright, we hide the core Python files and some of the interface functionalities in the encapsulation. Thank you for your understanding. We specifically performed the following operations:
-- **component_libs.py**: The components' structure used in the Hone framework; the entire file is hidden.
-- **hone_utils.py**: The function utils required by Hone; the entire file is hidden.
-- **fl_algs.py**: The core algorithm for Hone is temporarily hidden.
-- **parameterParse.py**: The parameters interface for Hone is temporarily hidden.
-- **main.py**: The function call interface is temporarily hidden.
+- `component_libs.py`: The components' structure used in the Hone framework; the entire file is hidden.
+- `hone_utils.py`: The function utils required by Hone; the entire file is hidden.
+- `fl_algs.py`: The core algorithm for Hone is temporarily hidden.
+- `parameterParse.py`: The parameters interface for Hone is temporarily hidden.
+- `main.py`: The function call interface is temporarily hidden.
 The complete code will be released after the paper is published.
 
 ## Table of Contents
