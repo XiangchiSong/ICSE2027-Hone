@@ -2,7 +2,13 @@
 This is the ICSE 2027 *Hone: Adaptive System-Level Orchestration for Federated Intelligent Software Systems* GitHub repository.
 
 ## System Code
-Currently, to verify the project's authenticity and reproducibility, we release a portion of the code here; please refer to the __*code*__ folder. To protect copyright, we hide the core Python files and some of the interface functionalities in the encapsulation; your understanding is appreciated. The complete code will be released after the paper is published.
+Currently, to verify the project's authenticity and reproducibility, we release a portion of the code here; please refer to the __*code/*__ folder. To protect copyright, we hide the core Python files and some of the interface functionalities in the encapsulation. Thank you for your understanding. We specifically performed the following operations:
+- **component_libs.py**: The components' structure used in the Hone framework; the entire file is hidden.
+- **hone_utils.py**: The function utils required by Hone; the entire file is hidden.
+- **fl_algs.py**: The core algorithm for Hone is temporarily hidden.
+- **parameterParse.py**: The parameters interface for Hone is temporarily hidden.
+- **main.py**: The function call interface is temporarily hidden.
+The complete code will be released after the paper is published.
 
 ## Table of Contents
 * Parameters and Model Configurations
@@ -24,4 +30,4 @@ Please refer to __*resultsAndServerRunningLogs.zip*__ to get all the server runn
 For the mathematical foundations and theoretical analysis of this paper, please refer to __*supplementaryDoc.pdf - Section D*__ for details. Specifically, it is the theoretical analysis and formula derivation of the theoretical guarantees of the Hone methodology.
 
 ### Figure
-Please refer to the __*figure*__ folder to obtain all the figures used in this paper.
+Please refer to the __*figure/*__ folder to obtain all the figures used in this paper.
