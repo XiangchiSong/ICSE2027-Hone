@@ -13,7 +13,7 @@ The complete code will be released after the paper is published.
 ## Table of Contents
 * Parameters and Model Configurations
 * Algorithm Process
-* Experimental Results and Server Running Logs
+* Experimental Results and Server Runtime Logs
 * Mathematical Foundations and Theoretical Analysis
 * Figure
 
@@ -23,8 +23,8 @@ To facilitate verification or reproduction, we summarize the default hyperparame
 ### Algorithm Process
 For the algorithm process of Hone, please refer to __*supplementaryDoc.pdf - Section C*__ for details.
 
-### Experimental Results and Server Running Logs
-Please refer to __*resultsAndServerRunningLogs.zip*__ to get all the server running logs and raw experimental results conducted in the paper. The results are given in *.pkl* format according to the experiment type.
+### Experimental Results and Server Runtime Logs
+Please refer to __*resultsAndServerRunningLogs.zip*__ to get all the server runtime logs and raw experimental results conducted in the paper. The results are given in *.pkl* format according to the experiment type.
 
 ### Mathematical Foundations and Theoretical Analysis
 For the mathematical foundations and theoretical analysis of this paper, please refer to __*supplementaryDoc.pdf - Section D*__ for details. Specifically, it is the theoretical analysis and formula derivation of the theoretical guarantees of the Hone methodology.
